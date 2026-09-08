@@ -228,3 +228,6 @@ This repository serves as the official landing page for Logon Screen Rotator. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Logon Screen Rotator today!**
+
+---
+**Last updated:** 2026-09-08 17:01:03 UTC
